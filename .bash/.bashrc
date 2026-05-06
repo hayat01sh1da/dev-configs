@@ -286,22 +286,28 @@ alias jn="jupyter notebook"
 # rbenv
 alias rbsup="git clone git@github.com:rbenv/rbenv.git ~/.rbenv && git clone git@github.com:rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build"
 alias rbist="rbenv install"
-alias rbistl="rbenv install --list"
+alias rbistls="rbenv install --list"
 alias rbuist="rbenv uninstall"
+alias rbvers="rbenv versions"
+alias rbistl="rbenv local"
 alias rbistg="rbenv global"
 
 # pyenv
 alias pysup="git clone git@github.com:pyenv/pyenv.git ~/.pyenv && "$(pyenv root)"/plugins/python-build/install.sh"
 alias pyist="pyenv install"
-alias pyistl="pyenv install --list"
+alias pyistls="pyenv install --list"
 alias pyuist="pyenv uninstall"
+alias pyvers="pyenv versions"
+alias pyistl="pyenv local"
 alias pyistg="pyenv global"
 
 # ndenv
 alias ndsup="git clone git@github.com:riywo/ndenv.git ~/.ndenv && git clone git@github.com:riywo/node-build.git "$(ndenv root)"/plugins/node-build"
 alias ndist="ndenv install"
-alias ndistl="ndenv install --list"
+alias ndistls="ndenv install --list"
 alias nduist="ndenv uninstall"
+alias ndvers="ndenv versions"
+alias ndistl="ndenv local"
 alias ndistg="ndenv global"
 
 # NPM
