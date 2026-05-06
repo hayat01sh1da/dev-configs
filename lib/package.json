@@ -17,7 +17,7 @@
     "latest-version": "^9.0.0",
     "marked": "^17.0.6",
     "pnpm": "^10.33.4",
-    "postcss": "8.5.10",
+    "postcss": "8.5.11",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "react-scripts": "5.0.1",
