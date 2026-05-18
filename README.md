@@ -1,0 +1,4 @@
+## 1. Common Environment
+
+- WSL (Ubuntu 25.10)
+- GNU bash, version 5.2.37(1)-release (x86_64-pc-linux-gnu)
