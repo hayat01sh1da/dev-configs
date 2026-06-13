@@ -15,7 +15,7 @@
     "@types/node": "^25.9.2",
     "babel-jest": "^30.4.1",
     "bootstrap": "^5.3.8",
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.1",
     "fancy-log": "^2.0.0",
     "gulp": "^5.0.1",
     "gulp-typescript": "6.0.0-alpha.1",
