@@ -1,0 +1,12 @@
+autoflake8==0.4.1
+autopep8==2.3.2
+flake8==7.3.0
+invoke==3.0.3
+matplotlib==3.10.9
+mypy==2.0.0
+numpy==2.4.4
+pandas==3.0.2
+pillow==12.2.0
+pytest==9.0.3
+selenium==4.43.0
+urllib3==2.7.0
